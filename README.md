@@ -1,4 +1,4 @@
-<h2>Welcome to my Graph Theory repeat repository</h2>
+<h2>Welcome to my Graph Theory repository</h2>
 <h4>Within this repository you will see an explanation for what is in the two notebooks, why the repository exists and how to run the notebooks</h4>
 <h4>- What is in this repository? -</h4>
 
